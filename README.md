@@ -1,4 +1,5 @@
-![VeterinaryManagementSystem.png](VeterinaryManagementSystem.png)
+
+![VeterinaryManagementSystem](https://github.com/batuhanlog/Veterinary-Management-System/assets/82649079/34e136a6-c958-4f17-bfe0-4c086f3dd6ab)
 
 Veterinary Management System is a comprehensive software designed
 to streamline and enhance various aspects of veterinary practices,
@@ -7,7 +8,8 @@ This system integrates multiple functionalities to effectively
 handle patient care, appointment scheduling, medical records, 
 and administrative tasks within a veterinary clinic or hospital.
 
-![UML.png](UML.png)
+![UML](https://github.com/batuhanlog/Veterinary-Management-System/assets/82649079/6df98ce8-56bb-4360-a6ab-82504f1720ee)
+
 
 ## Key Features of the API ⚙️
 
@@ -26,7 +28,8 @@ and administrative tasks within a veterinary clinic or hospital.
 <br>
 
 **Sample Crud Processes**
-![Crud.png](Crud.png)
+![Crud](https://github.com/batuhanlog/Veterinary-Management-System/assets/82649079/e97fa49d-2aa0-4a3a-b643-56296ad221ba)
+
 ## Technologies Used and Dependencies 🦾
 
 - Spring Web 🌱
