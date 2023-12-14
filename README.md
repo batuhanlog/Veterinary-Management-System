@@ -1,4 +1,4 @@
-![VeterinaryManagementSystem.png](VeterinaryManagementSystem.png)
+
 <br>
 ![VeterinaryManagementSystem](https://github.com/batuhanlog/Veterinary-Management-System/assets/82649079/514b70a4-16d6-402b-ab3b-d176b194c0e8)
 
